@@ -1,12 +1,12 @@
 # BEP20代币部署地址：<br>
 
-### 0x07f470F7793FeFb0F0602bAfC783023c81F5aE44(BSCtestnet)<br>
+### 0x07f470F7793FeFb0F0602bAfC783023c81F5aE44✍️(verified)(BSCtestnet)<br>
 
 ### 部署合约交易hash: 0xc1c91a4219c83b6a50d6978fba5fada67e391f9dc47012455da2d6fedf0dcf53<br>
 
 <br>
 
-### 这是主要的代码:
+### 这是主要的代码(contracts/jcoin.sol):
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
