@@ -1,6 +1,6 @@
 # 流动性挖矿合约<br>
 
-## 0x3d48903c1ABACf7082Dee225328B247873A8b747 :write (verified)(BSCtestnet)<br>
+## 0x3d48903c1ABACf7082Dee225328B247873A8b747  (verified)(BSCtestnet)<br>
 
 ## 主要代码:<br>
 ```
