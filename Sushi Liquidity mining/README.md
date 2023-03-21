@@ -1,6 +1,7 @@
 # 流动性挖矿合约<br>
 
 ## 0x3d48903c1ABACf7082Dee225328B247873A8b747  (verified)(BSCtestnet)<br>
+## 部署合约交易hash:0xd8ee840f0640700efa3f5a364c1b09f26a94fc13de9d71b60fab2d588cfa3ce4
 
 ## 主要代码:<br>
 ```
