@@ -4,4 +4,4 @@
 
 ## 流动性挖矿作业在./Sushi Liquidity mining
 
-## UUPS作业在./
+## UUPS作业在./UUPS
